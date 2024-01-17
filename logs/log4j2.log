@@ -1,0 +1,695 @@
+2023-12-26 23:06:00.612 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2023-12-26 23:23:41.687 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2023-12-26 23:24:15.052 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2023-12-26 23:24:59.246 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2023-12-26 23:26:17.010 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2023-12-27 17:01:00.574 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2023-12-29 19:07:54.368 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:30:46.047 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:31:40.423 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:32:05.474 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:34:12.471 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:35:46.023 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:53:42.346 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:55:11.881 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:55:44.605 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 17:57:21.690 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 18:01:06.613 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 19:41:20.145 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 19:58:39.869 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 19:59:44.548 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 19:59:50.541 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 19:59:50.542 [main] ERROR com.example.TextGame.TextGame - Incorrect number
+2024-01-16 19:59:51.790 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 19:59:51.792 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 20:00:10.372 [main] INFO  com.example.TextGame.TextGame - Closing program...
+2024-01-16 20:46:45.116 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 20:46:49.386 [main] INFO  com.example.TextGame.TextGame - Closing program...
+2024-01-16 21:00:21.863 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 21:00:36.082 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:36.084 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 21:00:37.434 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:37.435 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 21:00:38.053 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:38.609 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:38.609 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:00:40.870 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:41.659 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:41.660 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:00:42.538 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:43.127 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:43.692 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:44.296 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:45.069 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:46.080 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:46.749 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:00:47.404 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:28.221 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 21:02:32.671 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:32.672 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 21:02:33.368 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:33.844 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:33.845 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 21:02:34.309 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:34.764 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:34.765 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:35.195 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:35.195 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:35.635 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:36.091 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:36.091 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:36.559 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:36.559 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:37.370 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:37.988 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:37.988 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:38.651 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:39.194 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:39.194 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:39.726 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:39.726 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:40.432 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:41.349 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:41.349 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:42.217 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:42.218 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:42.852 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:43.528 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:43.529 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:44.126 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:44.653 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:44.653 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:45.165 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:45.166 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:45.799 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:46.334 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:46.334 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:46.928 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:46.929 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:47.782 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:54.959 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:54.960 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:56.315 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:56.990 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:56.990 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:58.011 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 21:02:58.012 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 21:02:58.012 [main] INFO  com.example.TextGame.TextGame - AI won
+2024-01-16 22:15:11.597 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 22:16:05.678 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 22:17:25.002 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 22:45:10.862 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 22:46:25.429 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 22:46:25.430 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 22:47:15.935 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 22:47:24.974 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 22:47:40.302 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 22:48:45.007 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 22:49:41.694 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 22:49:41.695 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:02:48.158 [main] ERROR com.example.TextGame.TextGame - Incorrect input
+2024-01-16 23:05:35.686 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-16 23:05:35.688 [main] INFO  com.example.TextGame.TextGame - Input 2: Water the rice
+2024-01-16 23:05:35.688 [main] ERROR com.example.TextGame.TextGame - Incorrect number
+2024-01-16 23:07:38.255 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:07:50.201 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:17:25.848 [main] ERROR com.example.TextGame.TextGame - Invalid direction selected
+2024-01-16 23:17:37.333 [main] ERROR com.example.TextGame.TextGame - Invalid direction selected
+2024-01-16 23:17:40.505 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:17:40.505 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-16 23:17:40.505 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-16 23:17:40.505 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-16 23:17:40.506 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:17:41.674 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:17:42.328 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:17:42.328 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:17:48.393 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:17:48.393 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-16 23:17:48.394 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:17:56.056 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-16 23:17:56.056 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-16 23:20:40.219 [main] INFO  com.example.TextGame.TextGame - Closing program...
+2024-01-16 23:20:52.085 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 23:23:45.307 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:23:45.307 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-16 23:23:45.308 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:27:29.080 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:29.375 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:29.376 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:27:29.635 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:29.902 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:29.903 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:27:30.522 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:30.523 [main] ERROR com.example.TextGame.TextGame - Incorrect number
+2024-01-16 23:27:30.801 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:30.802 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-16 23:27:31.451 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:31.452 [main] ERROR com.example.TextGame.TextGame - Incorrect number
+2024-01-16 23:27:31.728 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:32.081 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:32.082 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:27:32.831 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:32.831 [main] ERROR com.example.TextGame.TextGame - Incorrect number
+2024-01-16 23:27:33.149 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:33.150 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:27:33.452 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:33.783 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:27:33.783 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:30:21.511 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:30:21.511 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:30:26.628 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:30:26.628 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:30:26.628 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:29.427 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 23:33:33.921 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:33.922 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:33:34.094 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:34.287 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:34.287 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:33:34.636 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:34.636 [main] ERROR com.example.TextGame.TextGame - Incorrect number
+2024-01-16 23:33:36.590 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:36.979 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:36.979 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:37.333 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:37.333 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-16 23:33:37.658 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:37.999 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:38.000 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:38.360 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:38.360 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:38.728 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:39.086 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:39.086 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:39.494 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:39.956 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:39.957 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:40.345 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:40.345 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:41.910 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:42.884 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:42.885 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:46.486 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:33:46.486 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:33:46.488 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:48.714 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:49.271 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:49.271 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:50.020 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:51.185 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:51.185 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:51.971 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:51.972 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:33:52.521 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:33:56.842 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:33:56.842 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:33:56.843 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:34:02.229 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:34:02.229 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:34:02.229 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:34:22.952 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 23:34:25.225 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:25.225 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:34:25.672 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:26.182 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:26.183 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:34:26.678 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:27.172 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:27.173 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:34:27.694 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:27.694 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:34:28.195 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:29.092 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:29.092 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:34:31.009 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:34:31.720 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:31.720 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:34:31.720 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:34:32.185 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:32.643 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:32.644 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:34:34.389 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:34:39.994 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:34:39.994 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:34:39.994 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:35:22.883 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:35:25.617 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:35:26.594 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:35:33.736 [main] INFO  com.example.TextGame.TextGame - Filesavegame.serwas cleared
+2024-01-16 23:35:36.312 [main] ERROR com.example.TextGame.TextGame - File is empty or dont exists
+2024-01-16 23:35:42.517 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:35:44.505 [main] INFO  com.example.TextGame.TextGame - Filesavegame.serwas cleared
+2024-01-16 23:35:45.486 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:35:46.627 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:35:49.826 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:35:49.826 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:35:49.826 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:35:49.826 [main] INFO  com.example.TextGame.TextGame - Input 7: Clear save file
+2024-01-16 23:35:49.826 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:35:49.826 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:35:49.826 [main] INFO  com.example.TextGame.TextGame - Input 7: Clear save file
+2024-01-16 23:35:49.827 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:35:49.827 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:35:49.827 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:35:51.261 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:35:51.261 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:35:52.391 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:35:54.144 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:35:54.144 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:37:21.929 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:37:24.442 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:37:26.772 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:37:26.772 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:37:26.772 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:37:26.772 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:37:28.083 [main] INFO  com.example.TextGame.TextGame - Filesavegame.serwas cleared
+2024-01-16 23:37:30.820 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:37:31.902 [main] INFO  com.example.TextGame.TextGame - Filesavegame.serwas cleared
+2024-01-16 23:37:33.065 [main] ERROR com.example.TextGame.TextGame - File is empty or dont exists
+2024-01-16 23:37:34.887 [main] ERROR com.example.TextGame.TextGame - File is empty or dont exists
+2024-01-16 23:38:40.244 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:38:40.244 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:38:40.244 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:38:40.244 [main] INFO  com.example.TextGame.TextGame - Input 7: Clear save file
+2024-01-16 23:38:40.244 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:38:40.244 [main] INFO  com.example.TextGame.TextGame - Input 7: Clear save file
+2024-01-16 23:38:43.574 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:38:43.575 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:38:50.282 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:38:52.644 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:38:52.644 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:38:52.644 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:38:53.801 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:38:56.417 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:38:56.418 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:38:56.989 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:38:56.990 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:38:57.522 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:38:59.685 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:39:02.340 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:39:02.340 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:39:02.340 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:42:35.898 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:42:35.899 [main] INFO  com.example.TextGame.TextGame - Input 8: Show graph
+2024-01-16 23:42:36.263 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:42:36.263 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:42:36.611 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:42:36.611 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:42:37.130 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:43:49.425 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 23:54:39.361 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 23:54:42.978 [main] INFO  com.example.TextGame.TextGame - Filesavegame.serwas cleared
+2024-01-16 23:54:47.929 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:54:49.025 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:49.025 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:54:49.025 [main] INFO  com.example.TextGame.TextGame - Input 7: Clear save file
+2024-01-16 23:54:49.026 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:54:49.486 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:49.951 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:49.952 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:54:50.388 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:50.805 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:50.805 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:54:51.255 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:51.255 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:54:52.785 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:53.303 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:53.303 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:54:54.898 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:54:54.898 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:54:59.748 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:55:01.000 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:55:01.000 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:55:01.000 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:55:36.454 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 23:56:00.436 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 23:56:03.739 [main] INFO  com.example.TextGame.TextGame - Filesavegame.serwas cleared
+2024-01-16 23:56:08.558 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:56:09.145 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:09.145 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:56:09.145 [main] INFO  com.example.TextGame.TextGame - Input 7: Clear save file
+2024-01-16 23:56:09.145 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:56:09.592 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:10.014 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:10.015 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:56:10.455 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:10.894 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:10.894 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:56:11.330 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:11.330 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-16 23:56:11.876 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:13.118 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:13.119 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:56:13.681 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:56:13.681 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:56:16.732 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:56:16.732 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:56:16.732 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:57:12.008 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-16 23:57:17.503 [main] INFO  com.example.TextGame.TextGame - Filesavegame.serwas cleared
+2024-01-16 23:57:18.380 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:18.380 [main] INFO  com.example.TextGame.TextGame - Input 7: Clear save file
+2024-01-16 23:57:18.381 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:57:18.783 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:19.223 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:19.223 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-16 23:57:19.644 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:20.104 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:20.105 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:57:22.746 [main] INFO  com.example.TextGame.TextGame - Game saved into a file
+2024-01-16 23:57:23.417 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:23.417 [main] INFO  com.example.TextGame.TextGame - Input 5: Save game
+2024-01-16 23:57:23.417 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-16 23:57:23.814 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:24.219 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:24.219 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:57:24.619 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:57:24.619 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:57:27.352 [main] INFO  com.example.TextGame.TextGame - Game loaded from file
+2024-01-16 23:57:27.352 [main] INFO  com.example.TextGame.TextGame - Input 6: Load game
+2024-01-16 23:57:27.353 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-16 23:58:09.384 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:58:09.384 [main] INFO  com.example.TextGame.TextGame - Input 8: Show graph
+2024-01-16 23:58:09.755 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:58:09.756 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-16 23:58:10.110 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-16 23:58:10.111 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 00:03:07.293 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-17 00:03:10.014 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 00:03:10.019 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 00:03:10.871 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 00:03:11.343 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 00:03:11.349 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 00:03:11.711 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 00:03:12.014 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 00:03:12.020 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 00:03:12.324 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 00:03:12.329 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:52:44.740 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-17 01:53:11.786 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:53:11.786 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:53:11.804 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 01:54:23.166 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:25.662 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:25.669 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 01:54:26.143 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:26.587 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:26.593 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:27.048 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:27.054 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:27.483 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:31.190 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:31.196 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:31.681 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:31.686 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:32.169 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:32.665 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:32.670 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:33.189 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:34.276 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:34.282 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:34.749 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:34.754 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:35.325 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:35.793 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:35.802 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:36.243 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:36.248 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:36.701 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:37.211 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:37.218 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:37.732 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:38.204 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:38.211 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:38.714 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:38.724 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:39.200 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:39.694 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:39.704 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:40.215 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:40.223 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:40.695 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:41.206 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:41.215 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:41.666 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:42.169 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:42.179 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:43.139 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:54:43.150 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:54:43.150 [main] INFO  com.example.TextGame.TextGame - AI won
+2024-01-17 01:57:00.347 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-17 01:57:16.389 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 01:57:16.389 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 01:57:16.394 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 01:57:17.441 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:57:20.836 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:57:20.842 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 01:57:27.278 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 01:57:27.279 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 01:57:32.206 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 01:57:32.206 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 01:57:32.211 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:57:33.474 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:57:33.480 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:57:34.171 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:57:34.930 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:57:34.935 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:57:35.630 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:57:35.635 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:57:42.387 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:57:42.387 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:57:44.925 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:57:44.925 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:57:44.931 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:57:47.436 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:57:47.436 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:57:49.625 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:57:49.625 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:57:49.637 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:57:51.242 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:57:51.243 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:57:51.248 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:57:54.107 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:57:54.107 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:57:56.710 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:57:56.710 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:57:56.717 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:57:59.004 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:57:59.004 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:57:59.012 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:58:00.018 [main] INFO  com.example.TextGame.TextGame - Not enough resources to capture a cell
+2024-01-17 01:58:04.013 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:58:04.013 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:58:04.565 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:58:04.571 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:58:06.827 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:58:06.827 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:58:08.720 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 01:58:08.727 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:58:25.875 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:58:25.875 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:58:25.884 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:58:28.304 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:58:28.304 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:58:33.764 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 01:58:33.764 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 01:58:33.774 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 01:58:38.529 [main] ERROR com.example.TextGame.TextGame - Cell is already captured
+2024-01-17 01:58:40.609 [main] ERROR com.example.TextGame.TextGame - Cell is already captured
+2024-01-17 01:58:43.092 [main] ERROR com.example.TextGame.TextGame - Cell is already captured
+2024-01-17 02:01:18.284 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:18.284 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:01:18.284 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:01:18.284 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:01:18.292 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:01:23.666 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:24.785 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:24.796 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:01:26.076 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:27.161 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:27.171 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:01:29.036 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:29.046 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:01:29.046 [main] INFO  com.example.TextGame.TextGame - AI won
+2024-01-17 02:01:39.722 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-17 02:01:43.983 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 02:01:43.983 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 02:01:43.990 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 02:01:44.531 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:45.060 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:45.065 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 02:01:45.613 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 02:01:45.613 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 02:01:46.161 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:46.168 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:01:46.662 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:46.668 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-17 02:01:47.173 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:47.702 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:01:47.707 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:01:49.909 [main] ERROR com.example.TextGame.TextGame - Invalid direction selected
+2024-01-17 02:01:52.458 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 02:01:52.458 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:01:52.459 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:01:52.464 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:01:53.650 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 02:01:53.650 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:01:54.791 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 02:01:54.791 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:01:54.797 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:01:59.549 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 02:01:59.549 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:02:04.400 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 02:02:04.400 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:02:04.407 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:02:06.355 [main] INFO  com.example.TextGame.TextGame - Cell is captured
+2024-01-17 02:02:06.356 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:02:08.090 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:02:09.695 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:02:12.296 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:02:57.147 [main] ERROR com.example.TextGame.TextGame - Out of bounds
+2024-01-17 02:04:48.834 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-17 02:04:51.428 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:04:51.433 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 02:04:55.913 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:00.690 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:00.696 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 02:05:01.123 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:01.522 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:01.529 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:05:01.884 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:01.889 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-17 02:05:02.233 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:02.576 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:02.581 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:05:03.074 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:03.080 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:05:03.636 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:04.114 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:05:04.119 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:06:03.629 [main] INFO  com.example.TextGame.TextGame - Not enough resources to capture a cell
+2024-01-17 02:06:09.292 [main] ERROR com.example.TextGame.TextGame - Incorrect input
+2024-01-17 02:06:28.206 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 02:06:28.206 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 02:06:30.664 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:06:30.664 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:06:36.068 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:06:36.082 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:06:42.228 [main] INFO  com.example.TextGame.TextGame - Not enough resources to capture a cell
+2024-01-17 02:06:54.351 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 02:06:54.351 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 02:06:54.351 [main] INFO  com.example.TextGame.TextGame - Input 3: Capture an empty cell
+2024-01-17 02:06:54.355 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 02:06:55.091 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 02:06:58.224 [main] ERROR com.example.TextGame.TextGame - Out of bounds
+2024-01-17 16:26:32.186 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-17 16:26:35.947 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:35.952 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 16:26:36.325 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:36.683 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:36.690 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 16:26:36.987 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:37.294 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:37.300 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:37.940 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:37.946 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:38.256 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:38.564 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:38.569 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:38.849 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:38.853 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:39.152 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:39.476 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:39.481 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:39.782 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:40.155 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:40.166 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:40.731 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:40.736 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:41.155 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:41.511 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:41.517 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:41.911 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:41.917 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:42.229 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:42.584 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:42.595 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:42.916 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:43.282 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:43.291 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:44.030 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:44.037 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:44.545 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:44.983 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:44.991 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:45.418 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:45.430 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:45.829 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:46.203 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:46.212 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:46.581 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:46.992 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:47.003 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:47.417 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 16:26:47.426 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 16:26:47.427 [main] INFO  com.example.TextGame.TextGame - AI won
+2024-01-17 17:07:25.191 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-17 17:07:32.056 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 17:07:32.056 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 17:07:32.062 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 17:07:33.116 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 17:07:33.116 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 17:07:34.530 [main] ERROR com.example.TextGame.TextGame - Not enough rice to build a house
+2024-01-17 17:07:34.530 [main] INFO  com.example.TextGame.TextGame - Input 4: Build a house
+2024-01-17 17:07:34.540 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 18:50:59.034 [main] INFO  com.example.TextGame.TextGame - Starting program...
+2024-01-17 18:51:32.016 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:32.022 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 18:51:48.260 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:48.740 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:48.747 [main] INFO  com.example.TextGame.TextGame - House is built. 1 peasant added
+2024-01-17 18:51:49.236 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:49.695 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:49.701 [main] INFO  com.example.TextGame.TextGame - Rice successfully watered
+2024-01-17 18:51:50.162 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:50.168 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:50.605 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:50.610 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:51.070 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:51.076 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:51.541 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:51.546 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:52.045 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:52.051 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:52.552 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:52.557 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:53.044 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:53.545 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:53.550 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:54.062 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:54.067 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:54.571 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:55.029 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:55.034 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:55.487 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:56.019 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:56.029 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:56.526 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:56.538 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:57.022 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:57.535 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:57.541 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:58.137 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:58.144 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:58.631 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:59.116 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:51:59.125 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:51:59.608 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:52:00.081 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:52:00.090 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:52:00.602 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:52:00.610 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:52:01.769 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:52:04.365 [main] INFO  com.example.TextGame.TextGame - Input 1: Collect water
+2024-01-17 18:52:04.374 [main] INFO  com.example.TextGame.TextGame - AI captured a cell
+2024-01-17 18:52:04.375 [main] INFO  com.example.TextGame.TextGame - AI won
